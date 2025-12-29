@@ -3,13 +3,17 @@
 バックエンドエンジニア or ゲームエンジニアを目指しています！</p>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,php,java,python,cpp)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,docker)](https://skillicons.dev)
+<h3> Frontend </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,unity)](https://skillicons.dev) <br>
+<h3> Backend </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,ts)](https://skillicons.dev) + hono <br>
+<h3> Other </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma)](https://skillicons.dev) <br>
 
 Unity
-- アルバイト中
 - 勉強中
 
 Web
@@ -20,9 +24,8 @@ School
 - html, css, python, java, php, mysql
 
 Other
-- cpp はatcoderで勉強中
+- cpp はatcoderで勉強
 - docker 勉強中
-- 共同開発したことある
   
 <!--
 **KoueiAmano/KoueiAmano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
